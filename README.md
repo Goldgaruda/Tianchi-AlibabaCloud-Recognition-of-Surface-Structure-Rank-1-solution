@@ -1,3 +1,11 @@
+
+Alibaba Cloud TIANCHI NLP Competition The introduction of the activity and whole dataset are available:
+https://tianchi.aliyun.com/competition/entrance/531872/submission/735#
+## Competition background
+The competition questions are based on computer vision, requiring the contestants to use a given aerial image to train the model and complete the task of identifying buildings on the surface. 
+
+## Problem description and data explanation
+Remote sensing technology has become the most effective means to obtain land cover information, and remote sensing technology has been successfully applied to land cover detection, vegetation area detection and building detection tasks. This question uses aerial photography data, and contestants are required to complete surface building identification, and divide the surface aerial image pixels into two types: buildings with and without buildings.
 ## 运行环境
 
 *一些常用的包*
